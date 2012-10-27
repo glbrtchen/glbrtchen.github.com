@@ -2,6 +2,8 @@
 layout: post
 category : lessons
 tags : [intro, beginner, jekyll, tutorial]
+title: Jekyll Introduction Self Define
+tagline: Supporting tagline for a Post
 ---
 {% include JB/setup %}
 
