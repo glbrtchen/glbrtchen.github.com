@@ -17,10 +17,7 @@ layout: page
       {% for category in post.categories %}
         <a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category }}</a>
       {% endfor %}
-      <br>
-      {{ post.id }}
-      <br>
-      {{ post.content }}
+      <p>{{ post.content }}</p>
       <hr>
     </li>
   {% endfor %}
