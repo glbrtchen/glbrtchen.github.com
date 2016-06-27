@@ -2,7 +2,7 @@
 layout: post
 title: "PostgreSQL Replication名词解释"
 description: ""
-category: 
+category: 开源系统
 tags: [postgres, replication]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Effective Java 学习笔记(1)"
 description: ""
-category: 
+category: 语言学习
 tags: [Java]
 ---
 {% include JB/setup %}
